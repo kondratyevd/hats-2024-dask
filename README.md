@@ -1,4 +1,4 @@
-# Dask (Effective Scale Out Techniques) HATS@LPC 2024
+# Dask tutorial at HATS@LPC 2024
 
 The original notebooks are taken from [PyHEP 2021](https://indico.cern.ch/event/1027094/) and [PyHEP 2024](https://github.com/ikrommyd/pyhep2024-coffea-dask) Dask tutorials.
 
