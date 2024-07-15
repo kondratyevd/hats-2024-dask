@@ -1,5 +1,5 @@
 dask-worker-space
 zmmtable
-data
+data/*json
 .ipynb_checkpoints
 __pycache__
