@@ -1,6 +1,6 @@
 # Dask tutorial at HATS@LPC 2024
 
-The original notebooks are taken from [PyHEP 2021](https://indico.cern.ch/event/1027094/) and [PyHEP 2024](https://github.com/ikrommyd/pyhep2024-coffea-dask) Dask tutorials.
+The original notebooks are taken from [PyHEP 2021 Dask tutorial](https://indico.cern.ch/event/1027094/) and [USCMS/IRIS-HEP Analysis Software Training (2024)](https://github.com/iris-hep/uscms-idap-training/).
 
 A short introductory talk is available [here](https://indico.cern.ch/event/1027094/contributions/4312696/attachments/2239462/3796674/pyhep-dask.pdf) and a recording is available on [youtube](https://www.youtube.com/watch?v=BmmVmKHEcsc&list=PLKZ9c4ONm-VnFUD0XX2DmfP1JA8VIRhXP)
 
@@ -17,7 +17,6 @@ Before the live session, please make sure that you can access Purdue Analysis Fa
 3. You will be redirected to the “Server Options” page. The default resource selection (4 CPUs, 16 GB RAM) is enough for the HATS exercises, but you can select more resources if needed. **Do not add GPUs to your session – there are not enough GPUs for all participants.**
 4. Click “Start” to create your Analysis Facility session. It may take a couple of minutes to load.
 5. Done! Your session is ready.
-6. To upload the Grid certificate to Purdue AF, you can drag-and-drop the .p12 file from your laptop/PC into  JupyterLab file browser, use Bash terminal in JupyterLab interface to move it to ~/.globus, and then run the [standard setup commands](https://twiki.cern.ch/twiki/bin/view/CMSPublic/WorkBookStartingGrid).
 
 <details>
   <summary>Additional details</summary>
